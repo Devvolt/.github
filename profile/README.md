@@ -19,4 +19,4 @@
 - Java
 
 ## Contact us
-- [Discord](https://discord.gg/ekNzAgEJGh)
+- [Discord](https://discord.devvolt.dev)
