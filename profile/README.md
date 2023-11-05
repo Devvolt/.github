@@ -1,16 +1,22 @@
 # Devvolt
-## Chi siamo?
-Siamo dei ragazzi che non hanno mai niente da fare e nel tempo libero programmano.
-
-## In che linguaggi programmiamo?
+##What do we do?
+- Public game servers
+  - CoD BOII
+## Programming Languages
+### Web development
+- HTML
+- CSS
+- Javascript
+  - NodeJS
+  - ExpressJS
+  - NextJS
+  - React
+### Misc
 - Python3
-- JavaScript
-- NodeJS
+  - TKinter
 - C#
-- HTML5
-- CSS3
-- ASSEMBLY x86_64
+- C/C++
+- Java
 
-## Come contattarci?
-È possibile contattarci attraverso:
-- Il nostro [server Discord](https://discord.gg/ekNzAgEJGh)
+## Contact us
+- [Discord](https://discord.gg/ekNzAgEJGh)
